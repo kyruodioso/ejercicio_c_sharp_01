@@ -1,0 +1,15 @@
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/bin/Debug/net6.0/ejercicio1
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/bin/Debug/net6.0/ejercicio1.deps.json
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/bin/Debug/net6.0/ejercicio1.runtimeconfig.json
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/bin/Debug/net6.0/ejercicio1.dll
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/bin/Debug/net6.0/ejercicio1.pdb
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.AssemblyReference.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfoInputs.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.AssemblyInfo.cs
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.csproj.CoreCompileInputs.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.dll
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/refint/ejercicio1.dll
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.pdb
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ejercicio1.genruntimeconfig.cache
+/home/kyru/Escritorio/cursoCsharp/ejercicio1/obj/Debug/net6.0/ref/ejercicio1.dll
